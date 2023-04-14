@@ -1,0 +1,9 @@
+Across the schools surveyed, the overall averages of the students going to any
+given school ranged from the mid-70s to the mid-80s. The scores of students
+seems to rise when the school is a charter school, and the spending per capita
+seems to be inversely proportional to the average grades of the student body in a 
+given school. Grade level does not seem to play an important role in determining
+the average grades of the student body in a given subject. Overall, smaller
+schools seem to have an advantage in their grades over larger schools, and
+charter schools have significantly better passing rates than district schools,
+especially in the subject of math.
